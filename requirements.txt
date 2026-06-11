@@ -1,0 +1,8 @@
+chromadb
+sentence-transformers
+groq
+pypdf
+pandas
+scikit-learn
+ipywidgets
+numpy
